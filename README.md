@@ -8,6 +8,8 @@ As a coding boot camp student, I want to take a timed quiz on JavaScript fundame
 This timed JavaScript quiz presents users with a start button, followed by a series of questions. The user has four choices to select as their answer, as a timer counts down from one minute. When the timer is up, a message will be displayed, letting the user know they are finished.
 
 ## Links:
+Link to deployed website:
+https://rebeccalowe.github.io/code-quiz/
 
 ![Screenshot of quiz](Screenshot%202023-03-30%20at%2011.41.15%20PM.png)
 ![Screenshot of quiz](Screenshot%202023-03-30%20at%2011.41.22%20PM.png)
